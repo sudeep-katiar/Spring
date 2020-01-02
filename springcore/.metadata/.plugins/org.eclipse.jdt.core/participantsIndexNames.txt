@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/home/user/sudeep/SpringCore/springcore/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2063219827.index
+/SpringPractice/src/main/resources

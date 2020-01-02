@@ -1,8 +1,8 @@
 package com.blblz.spring.DependencyInjectionO;
 
-public class MathCheat {
+public class MathCheat implements Cheat {
 	
-	public void mathCheat()
+	public void cheat()
 	{
 		System.out.println("math cheating started...");
 	}

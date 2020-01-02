@@ -1,0 +1,17 @@
+package com.blblz.spring.DependencyInjectionO;
+
+public class Student {
+	
+	MathCheat mathcheat = new MathCheat();
+	
+	public void setMathCheat(MathCheat mathcheat)
+	{
+		this.mathcheat = mathcheat;
+	}
+	
+	public void cheating()
+	{
+		mathcheat.mathCheat();
+	}
+
+}

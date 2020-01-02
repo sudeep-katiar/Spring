@@ -1,0 +1,10 @@
+package com.blblz.spring.DependencyInjectionO;
+
+public class MathCheat {
+	
+	public void mathCheat()
+	{
+		
+	}
+
+}

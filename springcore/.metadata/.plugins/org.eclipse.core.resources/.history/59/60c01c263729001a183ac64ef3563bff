@@ -1,0 +1,16 @@
+package com.blblz.spring.demo;
+
+public class Airtel implements Sim{
+
+	public void call() {
+		System.out.println("Calling using airtel sim");
+		
+	}
+
+	public void data() {
+		System.out.println("Using data from airtel sim");
+		
+	}
+	
+
+}

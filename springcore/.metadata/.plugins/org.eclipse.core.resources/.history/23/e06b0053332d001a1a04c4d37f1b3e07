@@ -1,0 +1,9 @@
+package com.blblz.spring.SingletonDemo;
+
+public class Heart {
+
+	public void heart()
+	{
+		System.out.println("heart is pumping...");
+	}
+}
