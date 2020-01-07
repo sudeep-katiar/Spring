@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/user/sudeep/SpringCore/springcore/DependencyInjectionO/src/main/java/com/blblz/spring/DependencyInjectionO/Client.java"/>
 			<item value="/home/user/sudeep/SpringCore/springcore/DependencyInjection/src/main/java/beans.xml"/>
 			<item value="/home/user/sudeep/SpringCore/springcore/demo"/>
 			<item value="/home/user/sudeep/SpringCore/springcore/SpringPractice/src/main/webapp/WEB-INF/web.xml"/>
@@ -28,6 +29,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.blblz.spring.SingletonDemo"/>
 			<item value="com.blblz.spring.DependencyInjectionO"/>
 			<item value="com.blblz.spring.DependencyInjection"/>
 			<item value="com.blblz.spring.demo"/>
@@ -37,6 +39,7 @@
 			<item value="com.blblz.spring"/>
 		</list>
 		<list key="artifactId">
+			<item value="SingletonDemo"/>
 			<item value="DependencyInjectionO"/>
 			<item value="DependencyInjection"/>
 			<item value="demo"/>
